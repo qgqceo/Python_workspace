@@ -1,3 +1,4 @@
+//org.eclipse.ui.commands/state/com.aptana.explorer.commands.toggleAppExplorer/org.eclipse.ui.commands.toggleState=false
 ACTIVE_HYPERLINK_COLOR=13,17,113
 ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tForg.eclipse.jface.textfont\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer
 ColorsAndFontsPreferencePage.selectedElement=CCONFLICTING_COLOR

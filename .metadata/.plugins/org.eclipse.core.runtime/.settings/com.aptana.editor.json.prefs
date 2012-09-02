@@ -1,0 +1,6 @@
+com.aptana.editor.common.useGlobalDefaults=false
+eclipse.preferences.version=1
+json.formatter.formatter.indentation.size=4
+json.formatter.formatter.tabulation.char=editor
+json.formatter.formatter.tabulation.size=4
+spacesForTabs=true

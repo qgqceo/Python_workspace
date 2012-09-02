@@ -1,0 +1,10 @@
+import sys;
+sys.path.append("../../..");
+from py_3th_model.redis\-py.redis import *
+
+r = redis.StrictRedis(host='127.0.0.1', port=3669)
+r.set('foo', 'Hello')
+r.rpush('mylist', 'one')
+
+print r.get('foo')
+print r.rpop('mylist')

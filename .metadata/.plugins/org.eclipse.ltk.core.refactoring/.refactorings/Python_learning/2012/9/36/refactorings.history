@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“Python_learning/2012-09-02/tutorial/tutorial/spiders/dmoz/spider”重命名为“spiders”" description="重命名资源“spider”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="2012-09-02/tutorial/tutorial/spiders/dmoz/spider" name="spiders" stamp="1346594865922" updateReferences="true"/>
+</session>
